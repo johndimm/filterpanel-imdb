@@ -1,0 +1,23 @@
+{
+  "name": "filterpanel-example",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.15.3",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-next": "^1.4.0",
+    "@babel/core": "^7.15.0",
+    "filterpanel": "^1.0.61",
+    "next": "11.1.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.15.0"
+  }
+}
